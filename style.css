@@ -10,7 +10,7 @@ html {
   background-attachment:fixed;
   color: #2a2a2a;
       }
-div::after{
+html::after{
 opacity: 0.5;
 }
 
