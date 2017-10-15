@@ -2,7 +2,7 @@
 
 html {
   border-top: 5px solid #fff;
-  opacity: 0.5;
+  background-opacity: 0.5;
   background-image: url("https://i.imgur.com/WyMU0AH.jpg");
   background-repeat:no-repeat;
   background-position:center;
