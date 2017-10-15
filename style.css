@@ -3,14 +3,17 @@
 html {
   
   background-image: url("https://i.imgur.com/WyMU0AH.jpg");
-  background-opacity: 0.5;
+  
   background-repeat:no-repeat;
   background-position:center;
   background-size:cover;
   background-attachment:fixed;
-
   color: #2a2a2a;
       }
+div::after{
+opacity: 0.5;
+}
+
 
 html, body {
 
