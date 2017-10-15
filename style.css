@@ -3,11 +3,11 @@
 html {
   
   background-image: url("https://i.imgur.com/WyMU0AH.jpg");
-  
+  opacity: 0.5; 
   background-repeat:no-repeat;
   background-position:center;
   background-size:cover;
-  background-attachment:fixed;
+  
   color: #2a2a2a;
       }
 
@@ -15,8 +15,7 @@ html {
 
 
 html, body {
-  background-image: url("https://i.imgur.com/WyMU0AH.jpg");
-  opacity:0.5;
+  
   margin: 0;
   padding: 0;
   font-family: 'Open Sans';
